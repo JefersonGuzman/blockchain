@@ -1,0 +1,26 @@
+
+.img_header{
+    background-color: rgb(65, 64, 64);
+}
+
+.img_header img{
+    height:200px;
+    width: 480px;
+}
+
+.bloque_info{
+    background-color: rgb(10, 156, 182);
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+    border: rgb(7, 89, 136) solid;
+}
+
+.bloque_info img{
+    width: 100%;
+}
+
+iframe{
+    width: 685px;
+    height: 602px;
+}
