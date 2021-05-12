@@ -12,8 +12,13 @@
     background-color: rgb(10, 156, 182);
     color: white;
     padding: 20px;
-    margin-top: 20px;
+    margin-top:20%;
     border: rgb(7, 89, 136) solid;
+    height: 500px;
+    margin-left: 20px;
+    width:300px;
+
+
 }
 
 .bloque_info img{
@@ -21,6 +26,6 @@
 }
 
 iframe{
-    width: 685px;
-    height: 602px;
+    width: 985px;
+    height:982px;
 }
